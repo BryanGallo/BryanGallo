@@ -9,10 +9,10 @@
 
 <h3 align="center">CONTACTATE CONMIGO</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bryan-gallo-bago95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bryan-gallo-bago95/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/bryan.gallo1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bryan.gallo1995" height="30" width="40" /></a>
-<a href="https://instagram.com/polligamer69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="polligamer69" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@bryangallo8160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bryangallo8160" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bryan-gallo-bago95/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bryan-gallo-bago95/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/bryan.gallo1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bryan.gallo1995" height="30" width="40" /></a>
+<a href="https://www.instagram.com/polligamer69/p/Bz1bGVeh774/?img_index=1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="polligamer69" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCLpACPRaWgBb0vcljmAGIqQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bryangallo8160" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="center">*** Lenguajes y herramientas que domino ***</h3>
