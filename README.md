@@ -1,11 +1,11 @@
 <h1 align="center">HOLA 👋, SOY BRYAN GALLO</h1>
 <h3 align="center">*** SOY UN APASIONADO DESARROLLADOR WEB ***</h3>
 
-- 🚀 ¿QUE ESTOY HACIENDO ACTUALMENTE?
+<h3>🚀 ¿QUE ESTOY HACIENDO ACTUALMENTE?</h3> 
 
 -  Trabajando en un proyecto **Deportivo** y desarrollando soluciones web escalables y centradas en la experiencia del usuario.
 
-- ### 💡 Tecnologías que domino profesionalmente
+### 💡 Tecnologías que domino profesionalmente
 
 - 🟨 **JavaScript**
 - 🟦 **TypeScript**
@@ -27,11 +27,11 @@
 - 🟤 **Laravel** (nivel básico)
 - 🐍 **Python** (nivel básico)
 
-- ### 🧠 Tecnologías que estoy aprendiendo
+### 🧠 Tecnologías que estoy aprendiendo
 - 🟩 **Vue 3**
 - 🟢 **MongoDB**
 
-- 📫 MI CORREO ** bryangallo95@hotmail.com **
+### 📫 MI CORREO ** bryangallo95@hotmail.com **
  
 <h3 align="center">CONTACTATE CONMIGO</h3>
 <p align="center">
