@@ -27,9 +27,19 @@
 - 🟤 **Laravel** (nivel básico)
 - 🐍 **Python** (nivel básico)
 
+### 🛠️ Herramientas con Inteligencia Artificial
+
+- 💻 **Cursor.sh** - Editor de código impulsado por IA para desarrollo acelerado
+- 🧠 **ChatGPT** y **Claude** - Asistentes de IA para resolución de problemas y documentación
+- 📈 **v0** - Generador de UI basado en IA
+- 📝 **Mermaid** - Para crear diagramas y documentar sistemas usando sintaxis simple y clara
+
+---
+
 ### 🧠 Tecnologías que estoy aprendiendo
 - 🟩 **Vue 3**
 - 🟢 **MongoDB**
+
 
 ### 📫 MI CORREO ** bryangallo95@hotmail.com **
  
