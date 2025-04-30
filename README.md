@@ -34,10 +34,13 @@
 
 ### 📚 Conocimientos adicionales
 
+- 🧱 **ORM**: Sequelize, TypeORM
+- 🧑‍💻 **Git** (control de versiones)
+- 🌐 **Fork** (cliente Git avanzado)
+- 🛠️ **ASP Clásico**
 - ☕ **Java** (nivel básico)
 - 🟤 **Laravel** (nivel básico)
 - 🐍 **Python** (nivel básico)
-- 🛠️ **ASP Clásico**
 
 ### 🛠️ Herramientas con Inteligencia Artificial
 
