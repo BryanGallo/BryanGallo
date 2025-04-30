@@ -1,12 +1,38 @@
 <h1 align="center">HOLA 👋, SOY BRYAN GALLO</h1>
 <h3 align="center">*** SOY UN APASIONADO DESARROLLADOR WEB ***</h3>
 
-- 🔭 ACTUALMENTE ME ENCUENTRO TRABAJANDO EN EL PROYECTO ODONTOLOGÍA
+- 🚀 ¿QUE ESTOY HACIENDO ACTUALMENTE?
 
-- 🌱 ESTOY APRENDIENDO ** TYPESCRIPT, REACT, NEXT JS 15, API REST, NEST JS, MONGO DB ,VUE 3 **
+-  Trabajando en un proyecto **Deportivo** y desarrollando soluciones web escalables y centradas en la experiencia del usuario.
+
+- ### 💡 Tecnologías que domino profesionalmente
+
+- 🟨 **JavaScript**
+- 🟦 **TypeScript**
+- 🔵 **React**
+- 🟩 **Next.js 15**
+- 🛠️ **API REST**
+- 🟩 **Node JS**
+- 🟢 **Express JS**
+- 🟨 **NestJS**
+- 🟢 **MySQL**
+- 🔵 **PostgreSQL**
+- 🔄 **n8n** (Automatización y orquestación de flujos)
+- 🟦 **PHP**
+- 🛠️ **ASP Clásico**
+
+### 📚 Conocimientos adicionales
+
+- ☕ **Java** (nivel básico)
+- 🟤 **Laravel** (nivel básico)
+- 🐍 **Python** (nivel básico)
+
+- ### 🧠 Tecnologías que estoy aprendiendo
+- 🟩 **Vue 3**
+- 🟢 **MongoDB**
 
 - 📫 MI CORREO ** bryangallo95@hotmail.com **
-
+ 
 <h3 align="center">CONTACTATE CONMIGO</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/bryan-gallo-bago95/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bryan-gallo-bago95/" height="30" width="40" /></a>
